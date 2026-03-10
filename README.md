@@ -3,4 +3,4 @@ README
 README
 Fortnite Battle Pass free vbucks
 new data
-nov red
+nov reds
